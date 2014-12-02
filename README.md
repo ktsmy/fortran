@@ -1,7 +1,7 @@
-FORTRAN
+Fortran
 =======
 ---------------------------------------------
-FORTRANとは
+Fortranとは
 ===========
 http://ja.wikipedia.org/wiki/FORTRAN
 * FORmula TRANstation
